@@ -1,0 +1,4 @@
+Seed: The generated text
+
+Generated text:
+The generated text can sound reasonable for a short sequence. The generated text can sound reasonable for a basic Markov generator because sampling is direct. Engineering projects should document limitations instead of hiding failures. A

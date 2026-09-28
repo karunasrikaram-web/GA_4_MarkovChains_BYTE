@@ -1,0 +1,4 @@
+Seed: Machine learning systems
+
+Generated text:
+Machine learning systems learn patterns from examples and data. A neural method helps explain model tradeoffs. A Markov chain predicts the next word from the previous words. Statistical text generation is simple to implement and

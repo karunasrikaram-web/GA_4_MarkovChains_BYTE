@@ -1,0 +1,4 @@
+Seed: A simple program
+
+Generated text:
+A simple program can save time by repeating a task accurately. Machine learning systems learn patterns from examples and data. A good project separates source code and documentation. The goal of a baseline is to

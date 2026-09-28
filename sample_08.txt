@@ -1,0 +1,4 @@
+Seed: A word level Markov model
+
+Generated text:
+A word level Markov model predicts the next word from the previous words. Statistical text generation is simple to implement and easy to share a project. An engineering student can improve skills by building small projects regularly.

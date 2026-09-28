@@ -1,0 +1,4 @@
+Seed: Debugging starts
+
+Generated text:
+Debugging starts by reproducing the problem and checking assumptions. Clear variable names make code easier to understand algorithms. A useful report explains both what worked and what could be improved. Students should verify generated

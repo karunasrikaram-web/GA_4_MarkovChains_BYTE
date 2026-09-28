@@ -1,0 +1,4 @@
+Seed: Generative AI
+
+Generated text:
+Generative AI can create text, images, audio, and code from learned patterns. Neural text generators usually learn richer relationships than simple Markov models. A larger and cleaner corpus generally gives a Markov

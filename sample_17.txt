@@ -1,0 +1,4 @@
+Seed: An engineering student
+
+Generated text:
+An engineering student can improve skills by building small projects regularly. Debugging starts by reproducing the problem and checking assumptions. Clear variable names make code easier to understand algorithms. A Markov generator more choices.

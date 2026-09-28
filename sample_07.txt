@@ -1,0 +1,4 @@
+Seed: A Markov chain
+
+Generated text:
+A Markov chain predicts the next word from the previous words. Statistical text generation is simple to implement and easy to inspect. The generated text can sound reasonable for a short sequence. The same model

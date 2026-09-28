@@ -1,0 +1,4 @@
+Seed: Python is useful
+
+Generated text:
+Python is useful for automation, data, generated results, and machine learning experiments. A neural model can use a much larger context than a small statistical baseline is valuable because it is fast, transparent

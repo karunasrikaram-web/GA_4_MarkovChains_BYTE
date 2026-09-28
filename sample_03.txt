@@ -1,0 +1,4 @@
+Seed: Good problem statements
+
+Generated text:
+Good problem statements describe the user, the method, and documentation. GitHub makes it easy to inspect. The same model can also produce repetition when the training corpus. A word level Markov model predicts

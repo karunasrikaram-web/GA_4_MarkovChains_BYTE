@@ -1,0 +1,22 @@
+Markov Chain Text Generation — 20 Seeds
+
+1. Engineering students
+2. A software project
+3. Good problem statements
+4. Python is useful
+5. A simple program
+6. Machine learning systems
+7. A Markov chain
+8. A word level Markov model
+9. Statistical text generation
+10. The generated text
+11. The same model
+12. Good experiments
+13. Reproducible experiments
+14. Git helps developers
+15. GitHub makes it easy
+16. A README should
+17. An engineering student
+18. Debugging starts
+19. Artificial intelligence
+20. Generative AI

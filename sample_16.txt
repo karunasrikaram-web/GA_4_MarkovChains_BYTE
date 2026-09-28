@@ -1,0 +1,4 @@
+Seed: A README should
+
+Generated text:
+A README should explain the purpose, setup steps, and inexpensive. The goal of a baseline is to create a simple reference for later comparison. Comparing a statistical method with a neural model can also

@@ -1,0 +1,4 @@
+Seed: Artificial intelligence
+
+Generated text:
+Artificial intelligence includes methods for learning, reasoning, and generating content. Generative AI can create text, images, audio, and documentation. GitHub makes it easy to share a project and show development

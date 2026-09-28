@@ -1,0 +1,4 @@
+Seed: Statistical text generation
+
+Generated text:
+Statistical text generation is simple to implement and easy to share a project and show development work. A useful report explains both what worked and what could be improved. Students should verify generated content before using

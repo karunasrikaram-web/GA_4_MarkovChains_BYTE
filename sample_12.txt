@@ -1,0 +1,4 @@
+Seed: Good experiments
+
+Generated text:
+Good experiments record the input, the method, and the output. Reproducible experiments use fixed random seeds when comparing results. Git helps developers track changes in source code and documentation. GitHub makes it

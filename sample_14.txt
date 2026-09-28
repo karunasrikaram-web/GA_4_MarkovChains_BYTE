@@ -1,0 +1,4 @@
+Seed: Git helps developers
+
+Generated text:
+Git helps developers track changes in source code and documentation. The quality of a generated sample depends strongly on the training corpus. A neural method helps explain model tradeoffs. predicts the next state using a
